@@ -1,4 +1,4 @@
-baseURL = "https://lavanderiavillaverdebajo.github.io/"
+baseURL = "/"
 languageCode = "en-us"
 title = "Lavandería autoservicio Villaverde Bajo"
 theme = "ananke"
