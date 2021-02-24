@@ -2,21 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Lavandería autoservicio Villaverde Bajo</title>
-    <link>https://lavanderiavillaverdebajo.github.io/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on Lavandería autoservicio Villaverde Bajo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 12 Apr 2017 11:14:48 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 24 Feb 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://lavanderiavillaverdebajo.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Articles</title>
+      <link>/tags/articles/</link>
+      <pubDate>Mon, 24 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/articles/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>scene</title>
-      <link>https://lavanderiavillaverdebajo.github.io/tags/scene/</link>
+      <link>/tags/scene/</link>
       <pubDate>Wed, 12 Apr 2017 11:14:48 -0400</pubDate>
       
-      <guid>https://lavanderiavillaverdebajo.github.io/tags/scene/</guid>
+      <guid>/tags/scene/</guid>
       <description></description>
     </item>
     
