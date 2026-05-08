@@ -1,7 +1,7 @@
 +++
 title = "Consejos lavado y secado"
 date = "2020-02-24"
-description = "Lavandería autoservicio de Villaverde Bajo ofrece unos consejos para un mejor lavado y secado de su colada"
+description = "Lavandería autoservicio de Verbena de la Paloma en Villaverde ofrece unos consejos para un mejor lavado y secado de su colada"
 thumbnail = "/post/images/consejos-lavado-y-secado.jpg"
 featured_image = "/post/images/consejos-lavado-y-secado.jpg"
 tags = [ "Artículos" ]

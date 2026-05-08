@@ -1,14 +1,14 @@
 +++
 title = "Abrimos"
 date = "2018-02-24"
-description = "Ya está abierta la lavandería autoservicio de Villaverde"
+description = "Ya está abierta la lavandería autoservicio de Verbena de la Paloma en Villaverde"
 thumbnail = "/images/Common/Local.jpg"
 featured_image = "/images/Common/Local.jpg"
 tags = [ "Artículos" ]
 +++
 
 Después de dos meses de duro trabajo y algunos disgustos, ayer por fin abrimos nuestra
-**lavandería autoservicio** en Villaverde.
+**lavandería autoservicio** en Verbena de la Paloma en Villaverde.
 	
 Son unas fechas raras, final de Semana Santa, pero estábamos deseando empezar.
 

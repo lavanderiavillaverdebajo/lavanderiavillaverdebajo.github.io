@@ -1,7 +1,7 @@
 +++
 title = "Instrucciones uso lavandería autoservicio"
 date = "2020-02-24"
-description = "Las lavadoras y secadores de nuestra lavandería autoservicio de Villaverde, son muy fáciles de utilizar pero aún así, aquí tienes las instrucciones para tener un lavado y secado perfecto"
+description = "Las lavadoras y secadores de nuestra Lavandería autoservicio de Verbena de la Paloma en Villaverde, son muy fáciles de utilizar pero aún así, aquí tienes las instrucciones para tener un lavado y secado perfecto"
 thumbnail = "/images/Common/Local.jpg"
 featured_image = "/images/Common/Local.jpg"
 tags = [ "Artículos" ]

@@ -1,7 +1,7 @@
 +++
 title = "Haz tu colada de cambio de temporada"
 date = "2020-02-24"
-description = "Prepara tu ropa para el cambio de temporada en Lavandería Villaverde"
+description = "Prepara tu ropa para el cambio de temporada en Lavandería autoservicio de Verbena de la Paloma en Villaverde"
 thumbnail = "/images/Common/Local.jpg"
 featured_image = "/images/Common/Local.jpg"
 tags = [ "Artículos" ]

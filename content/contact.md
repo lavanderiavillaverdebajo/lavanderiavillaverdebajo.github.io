@@ -2,15 +2,15 @@
 title: Contacto
 featured_image: "images/notebook.jpg"
 omit_header_text: true
-description: Te esperamos en nuestro local
+description: Te esperamos en nuestro local en la avenida Verbena de la Paloma
 type: page
 menu: main
 ---
 
-Lavandería autoservicio Colada Exprés de Villaverde Bajo.
+Lavandería autoservicio de Verbena de la Paloma en Villaverde.
 
 ## Datos de contacto
-* **Dirección:** C/ Villajoyosa, 101, Madrid
+* **Dirección:** Avenida Verbena de la Paloma, 37, Madrid
 * **Teléfono:** 673-246-634
 
 
