@@ -13,5 +13,4 @@ Lavandería autoservicio de Verbena de la Paloma en Villaverde.
 * **Dirección:** Avenida Verbena de la Paloma, 37, Madrid
 * **Teléfono:** 673-246-634
 
-
 ![Cómo llegar](/images/Common/Map.png "Mapa")
