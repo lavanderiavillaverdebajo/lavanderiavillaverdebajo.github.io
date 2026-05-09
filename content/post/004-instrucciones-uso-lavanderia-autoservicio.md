@@ -29,8 +29,7 @@ que no quede ninguna duda.
 
 Pero, dado que una imagen vale más que mil palabras, aquí tienes un vídeo que muestra lo fácil que es:
 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2bXnkuTMnUc" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="515" src="https://www.youtube.com/embed/2bXnkuTMnUc" frameborder="0" allowfullscreen></iframe>
 			
-De cualquier forma, si no te queda claro, ven a vernos de lunes a sábados de 10:00 a 14:00.
+De cualquier forma, si no te queda claro, ven a vernos de lunes a sábado de 10:00 a 14:00.
 Estamos allí para ayudarte con tu colada y enseñarte el uso de nuestras máquinas.
