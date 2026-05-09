@@ -1,5 +1,5 @@
 ---
-title: Contacto
+title: Datos de contacto
 featured_image: "images/notebook.jpg"
 omit_header_text: true
 description: Te esperamos en nuestro local en la avenida Verbena de la Paloma
