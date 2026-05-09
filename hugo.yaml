@@ -1,0 +1,56 @@
+baseURL: 'https://bect.github.io/kopi/'
+languageCode: 'en-US'
+title: 'Lavandería autoservicio Verbena de la Paloma - Villaverde'
+theme: 'kopi'
+params:
+  subtitle: 'Toda la información de la lavandería autoservicio de la avenida Verbena de la Paloma'
+  author:
+    name: "Lavandería autoservicio"
+    bio: "La mejor lavandería autoservicio de Villaverde"
+    link: "/about"
+    role: "Theme Developer"
+
+menus:
+  main:
+    - name: 'Home'
+      pageRef: '/'
+      weight: 10
+    - name: 'Articles'
+      identifier: 'topics'
+      url: '#'
+      weight: 20
+    - name: 'Hugo'
+      parent: 'topics'
+      pageRef: '/hugo'
+      weight: 10
+    - name: 'About'
+      url: '#'
+      weight: 30
+
+module:
+  hugoVersion:
+    extended: true
+    min: '0.146.0'
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+mediaTypes:
+  application/radio+json:
+    suffixes:
+      - json
+
+outputFormats:
+  RADIO:
+    mediaType: application/radio+json
+    baseName: radio
+    isPlainText: true
+    notAlternative: true
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
