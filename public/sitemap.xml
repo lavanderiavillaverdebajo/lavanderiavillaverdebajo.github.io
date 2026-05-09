@@ -2,34 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/kopi/tags/art%C3%ADculos/</loc>
+    <loc>http://localhost:1313/tags/art%C3%ADculos/</loc>
     <lastmod>2020-02-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/kopi/post/002-consejos-lavado-y-secado/</loc>
+    <loc>http://localhost:1313/post/002-consejos-lavado-y-secado/</loc>
     <lastmod>2020-02-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/kopi/post/003-cambio-temporada/</loc>
+    <loc>http://localhost:1313/post/003-cambio-temporada/</loc>
     <lastmod>2020-02-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/kopi/post/004-instrucciones-uso-lavanderia-autoservicio/</loc>
+    <loc>http://localhost:1313/post/004-instrucciones-uso-lavanderia-autoservicio/</loc>
     <lastmod>2020-02-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/kopi/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2020-02-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/kopi/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2020-02-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/kopi/post/001-abrimos/</loc>
+    <loc>http://localhost:1313/post/001-abrimos/</loc>
     <lastmod>2018-02-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/kopi/post/</loc>
+    <loc>http://localhost:1313/post/</loc>
     <lastmod>2017-03-02T12:00:00-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/kopi/about/</loc>
+    <loc>http://localhost:1313/about/</loc>
   </url><url>
-    <loc>http://localhost:1313/kopi/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/kopi/contact/</loc>
+    <loc>http://localhost:1313/contact/</loc>
   </url>
 </urlset>
