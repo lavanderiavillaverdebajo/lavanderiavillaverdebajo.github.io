@@ -1,4 +1,4 @@
-baseURL: 'https://bect.github.io/kopi/'
+baseURL: 'https://lavanderiavillaverdebajo.github.io/'
 languageCode: 'en-US'
 title: 'Lavandería autoservicio Verbena de la Paloma - Villaverde'
 theme: 'kopi'
@@ -30,13 +30,6 @@ mediaTypes:
   application/radio+json:
     suffixes:
       - json
-
-outputFormats:
-  RADIO:
-    mediaType: application/radio+json
-    baseName: radio
-    isPlainText: true
-    notAlternative: true
 
 outputs:
   home:
