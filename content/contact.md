@@ -1,8 +1,7 @@
 ---
 title: Datos de contacto
-featured_image: "images/notebook.jpg"
-omit_header_text: true
 description: Te esperamos en nuestro local en la avenida Verbena de la Paloma
+date: 2026-05-10
 type: page
 menu: main
 ---

@@ -1,7 +1,7 @@
 ﻿---
 title: "¡Nos mudamos! Nueva lavandería en Avenida Verbena de la Paloma"
-date: 2024-02-20
-draft: false
+date: 2026-05-10
+lastmod: 2026-05-10
 ---
 
 ¡Buenas noticias para todos nuestros clientes de la lavandería autoservicio!

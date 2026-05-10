@@ -1,13 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\.github\\workflows",
-    "\\content\\images",
-    "\\content\\post",
-    "\\content\\post\\images",
     "\\data",
-    "\\static",
-    "\\themes\\kopi"
+    "\\resources",
+    "\\static"
   ],
+  "SelectedNode": "\\Configuración local (.vs)",
   "PreviewInSolutionExplorer": false
 }

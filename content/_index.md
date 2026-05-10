@@ -1,6 +1,7 @@
 ---
 title: "Lavandería autoservicio de Verbena de la Paloma en Villaverde"
-featured_image: '/images/Common/Local.jpg'
+type: page
+date: 2026-05-10
 description: "La mejor lavandería automática del barrio"
 ---
 
