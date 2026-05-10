@@ -15,4 +15,5 @@ hugo.linux
 # Editor
 .vscode/
 .vs/
+.vs/slnx.sqlite
 
