@@ -1,9 +1,13 @@
 {
   "ExpandedNodes": [
     "",
-    "\\.github",
     "\\.github\\workflows",
-    "\\layouts"
+    "\\content\\images",
+    "\\content\\post",
+    "\\content\\post\\images",
+    "\\data",
+    "\\static",
+    "\\themes\\kopi"
   ],
   "PreviewInSolutionExplorer": false
 }
